@@ -1,6 +1,7 @@
 # Orbiora – Sustainable Impact Dashboard
 
 Orbiora is a full-stack web platform that tracks environmental impact through waste collection, energy generation, and eco-reward systems.
+
 The dashboard provides real-time metrics, activity tracking, and impact analytics for sustainability initiatives.
 
 ---
